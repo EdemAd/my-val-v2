@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/my-val-v2/static/css/main.d2792449.css",
-    "main.js": "/my-val-v2/static/js/main.7fad2180.js",
+    "main.css": "/my-val-v2/static/css/main.5874f365.css",
+    "main.js": "/my-val-v2/static/js/main.dc18c063.js",
+    "static/media/roses.png": "/my-val-v2/static/media/roses.79f584eaed1618503c88.png",
+    "static/media/image.png": "/my-val-v2/static/media/image.215a64f3a9eb9ea4b2a2.png",
+    "static/media/12345.png": "/my-val-v2/static/media/12345.019aa5fc4d457b18fb74.png",
     "static/media/linkedin.png": "/my-val-v2/static/media/linkedin.3fe10ff5ab9283f14ba1.png",
     "static/media/cooking with edem.png": "/my-val-v2/static/media/cooking with edem.fcd3ea615d4f6a1c5794.png",
-    "static/media/pro1image.png": "/my-val-v2/static/media/pro1image.1e2b81a738e7dd512b98.png",
-    "static/media/5053309.jpg": "/my-val-v2/static/media/5053309.6da467481005077e7f26.jpg",
-    "static/media/tank de ouf off.png": "/my-val-v2/static/media/tank de ouf off.ff2574fea78ecec6582c.png",
-    "static/media/binairo.png": "/my-val-v2/static/media/binairo.75d1df136e6c6f19d310.png",
+    "static/media/image2.png": "/my-val-v2/static/media/image2.5a6e00c0b28616bdee35.png",
+    "static/media/back_heart.jpg": "/my-val-v2/static/media/back_heart.548b5ab16f557b546a37.jpg",
     "index.html": "/my-val-v2/index.html",
-    "main.d2792449.css.map": "/my-val-v2/static/css/main.d2792449.css.map",
-    "main.7fad2180.js.map": "/my-val-v2/static/js/main.7fad2180.js.map"
+    "main.5874f365.css.map": "/my-val-v2/static/css/main.5874f365.css.map",
+    "main.dc18c063.js.map": "/my-val-v2/static/js/main.dc18c063.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2792449.css",
-    "static/js/main.7fad2180.js"
+    "static/css/main.5874f365.css",
+    "static/js/main.dc18c063.js"
   ]
 }
